@@ -1,3 +1,9 @@
 STEP 1:  created by Justin Long on 04/13/22 at 13:34
+<<<<<<< HEAD
+
+abe is the one true pog
+larry and justin are cool too
 
 STEP 4: line added by Justin Long on 04/13/22 at 14:07
+=======
+>>>>>>> 5bd769629012e662865b2302fba2346506fc1a16
